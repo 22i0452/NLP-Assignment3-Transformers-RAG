@@ -1,0 +1,26 @@
+{
+    "phase": "Phase 1",
+    "sample_per_category": 2000,
+    "total_samples": 5998,
+    "categories": [
+        "sports",
+        "cellphones",
+        "home"
+    ],
+    "train_samples": 4198,
+    "val_samples": 900,
+    "test_samples": 900,
+    "sentiment_mapping": {
+        "1-2": "negative",
+        "3": "neutral",
+        "4-5": "positive"
+    },
+    "derived_feature": "review_length_class",
+    "length_classes": {
+        "short": 0,
+        "medium": 1,
+        "long": 2
+    },
+    "short_max_tokens": 36.0,
+    "medium_max_tokens": 78.01999999999998
+}
