@@ -1,0 +1,17 @@
+{
+    "phase": "Phase 2",
+    "max_len": 128,
+    "min_freq": 2,
+    "max_vocab_size": 20000,
+    "final_vocab_size": 8122,
+    "batch_size": 32,
+    "train_batches": 132,
+    "val_batches": 29,
+    "test_batches": 29,
+    "special_tokens": {
+        "PAD": 0,
+        "UNK": 1,
+        "BOS": 2,
+        "EOS": 3
+    }
+}
