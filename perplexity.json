@@ -1,0 +1,8 @@
+{
+    "phase": "Phase 6",
+    "rag_loss": 2.0448799644197737,
+    "rag_perplexity": 7.7282308195608405,
+    "no_rag_loss": 4.109218222754342,
+    "no_rag_perplexity": 60.8990894323515,
+    "test_eval_samples": 100
+}

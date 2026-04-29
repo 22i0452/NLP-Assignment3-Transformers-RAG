@@ -1,0 +1,3 @@
+system,loss,perplexity,uses_retrieval
+Full RAG,2.0448799644197737,7.7282308195608405,True
+No Retrieval Baseline,4.109218222754342,60.8990894323515,False

@@ -1,0 +1,57 @@
+[
+    {
+        "index": 0,
+        "review": "this works so well...leaves my old all metal one in it's dust! careful...sharp and quick...a bit bulky for hanging against a wall, but easy to find in a drawer...",
+        "predicted_sentiment": "positive",
+        "predicted_length": "medium",
+        "retrieved_context": [
+            "work to secure the towers ..these should stop the casual theft but i think they would only be a minor inconvenience to the dedicated thief..easy to install..easy to use.. but as with all yakima accessories"
+        ],
+        "reference_explanation": "this review is positive because it shows satisfaction and favorable product experience. the medium length review gives a moderate amount of detail. the retrieved reviews provide similar context and support the explanation.",
+        "generated_explanation": "this review is positive because it shows satisfaction and favorable product experience. the short review is positive because it shows satisfaction and favorable product experience. the short review gives a brief opinion."
+    },
+    {
+        "index": 1,
+        "review": "handles are nice and firm, compared to others that i've have bought",
+        "predicted_sentiment": "positive",
+        "predicted_length": "short",
+        "retrieved_context": [
+            "the magnets are handy, and you can fit a bunch in a small space."
+        ],
+        "reference_explanation": "this review is positive because it shows satisfaction and favorable product experience. the short review gives a brief opinion. the retrieved reviews provide similar context and support the explanation.",
+        "generated_explanation": "this review is positive because it shows satisfaction and favorable product experience."
+    },
+    {
+        "index": 2,
+        "review": "i am a headset junkie, and have tried most and owned many. to date, the discovery 925 is my all time favorite, retiring my 1st generation jawbone, which i reverted to after trying two different examples of the 2nd generation jawbone. both examples were inferior in every way to the original jawbone.i bought the d925 primarily because the hybrid soft silicon metal ear hook on the original jawbone was falling apart, with the rubber separating from the metal. also, the in ear fit of the jawbone was abysmal, which i complained about to the manufacturer and was told that other customers had reported solving this problem by using jabra ear gels from old wired headsets. i had some around, tried them, and they worked, improving the fit and comfort of the jawbone. when the new jawbone was introduced, i bought one, quickly returning it for what i thought was a defective speaker, which was tinny and raspy. the replacement unit was the same, and i returned that as well. the audio quality of the original jawbone was way better than the new, improved model.anyway, i have used the d925 for about a month now, and can report that it is, on balance, the best fitting and sounding bluetooth headset i have tried.ergonomics the default medium ear gel is the perfect fit for me, and the device is completely secure in either ear while remaining comfortable from dark to dark. i was skeptical that it would remain secure without an earhook, but it has never fallen out of either ear yet. and here's a great advantage to the design of this device you can quickly switch it from one ear to the other without changing earhooks! the eargel snugs down into either ear with a quick quarter twist, and removes just as easily. i don't use it, but the device comes with a neck lanyard that can be used to hang the device around the neck. the lanyard attaches into the micro usb charging port. another thing i really like about this device is that you don't have to go around with your ear blinking like a refugee from a borg ship. what good is that feature, really? can you look at your ear while wearing the headset to see if you're connected? all the connection indicator does is distract and irritate others in meetings, or conversational groups. good riddance! i have never used the small volume button on the edge of the unit, preferring to make volume adjustments from my blackberry. the large call answer button comprises the entire vertical surface of the device, and depresses easily and with slight tactile feedback. what a welcome change from the awful call answer button on the jawbone!audio speaker incoming audio is excellent, as good as the jawbone, which is also excellent. no complaints whatsoever.audio microphone outgoing sound quality is excellent, and sensitivity is excellent. see why four stars below. noice cancelling inferior to the jawbone, but still better than any of the other headsets i have used. called parties report some bg noise in busy restaurants or crowded events, but no road noise at freeway speeds. advantage jawbone.radio quality excellent. beats the jawbone in terms of range and quiet signal within close proximity.features a neat little black case contains a battery that will recharge the d925 once without ac. the leather maybe it's leather...doesn't matter case has its own micro usb charger input, and the d925 settles into it and connects through the same micro usb connector used to charge from the ac charger supplied. a standard usb to micro usb cable is also provided for charging from an available pc usb port. large, medium, and small eargels are provided. as with all late design plantronics headsets, pairing is a no brainer, with the device powering up in pairing mode on first use.why four stars, then? because the noise cancellation could be better, and because the d925 like the jawbone is very susceptible to voice blanking in the slightest air current. out in a slight breeze? forget it. find a sheltered area. i have to redirect or turn off the air conditioning in my car when making a call. if any air from the vents hits the device, it voice blanks and your other end caller hears niagara falls. i don't mean to over emphasize this, it isn't a big problem for me, just a minor irritation.i can heartily recommend this device. it's the best i've had or used.",
+        "predicted_sentiment": "negative",
+        "predicted_length": "long",
+        "retrieved_context": [
+            "i will start by saying that this is the third banner line scope i have owned, and my 9th bushnell scope. i have had excellent luck with their products, and this scope is a great"
+        ],
+        "reference_explanation": "this review is negative because it suggests dissatisfaction or a problem with the product. the long review gives more details about the user experience. the retrieved reviews provide similar context and support the explanation.",
+        "generated_explanation": "this review is positive because it shows satisfaction and favorable product experience. the short review is positive because it shows satisfaction and favorable product experience. the short review gives a brief opinion."
+    },
+    {
+        "index": 3,
+        "review": "yeah, i know, they warned me but i thought i was smarter than the average bear not so.if you have auto reverse on your tape player and you cannot shut the feature off, this will not work. it may work for a few minutes at a time, but will always end up frustrating you by switching every few minutes.if you can turn off the auto reverse or don't have it , it's a very solid product that sounded great.for those like me who need a fm transmitter instead of the tape version, i'd suggest the soundkase fm transmitter for ipod mp3s. we've been using it for a week or 2 with good results and from my research, probably the best results you can get if you can't use a tape connection .",
+        "predicted_sentiment": "negative",
+        "predicted_length": "long",
+        "retrieved_context": [
+            "i'm generally a big oxo fan, but i don't particularly care for these measuring cups, particularly not at this price point.they are stainless steel, which is great, but oxo used that yucky black material that"
+        ],
+        "reference_explanation": "this review is negative because it suggests dissatisfaction or a problem with the product. the long review gives more details about the user experience. the retrieved reviews provide similar context and support the explanation.",
+        "generated_explanation": "this review is positive because it shows satisfaction and favorable product experience. the short review is positive because it shows satisfaction and favorable product experience. the short review gives a brief opinion."
+    },
+    {
+        "index": 4,
+        "review": "when i bought the previous version that had the swivel clips i wasn't to keen on using it too much. but now that they changed to standard carabineers instead, i decided to buy a second set, which i use more regularly. also i recommend getting the new extra strength orange and purple bands, sold separately. i would say the only drawback may be is that the bands, all bands not just the two mentioned, are a little short for some people, and probably best suited for people in the 5'4 to 5'9 range. i'm not saying people below and above that range shouldn't get a set. let me just make it clear the height range i gave is not a concrete standard. it's just an opinion as to how i feel. i'm 5'11 and i'm very careful how i use my bands. black mountain is a very good company with awesome customer service, and they're always working on improving their products. for the price and some common sense usage it's tough to find a better basic set than this. my previous swivel end set is a souvenir i keep in my closet. i hope they come out with a new set the has all 7 bands, 2 ankle straps instead of just 1, 2 sets of handles that are bigger than what they have now, a door anchor with a cushioned liner, and a really nice bag to put it in. if and when that comes out i'll be getting that for sure and ready to post a 5 star review.",
+        "predicted_sentiment": "negative",
+        "predicted_length": "long",
+        "retrieved_context": [
+            "review on original purchase i was tasked by my office manager to purchase some headsets to make our office calls easier. i looked at corded headsets, cordless, and a variety of brands, but this unit"
+        ],
+        "reference_explanation": "this review is negative because it suggests dissatisfaction or a problem with the product. the long review gives more details about the user experience. the retrieved reviews provide similar context and support the explanation.",
+        "generated_explanation": "this review is positive because it shows satisfaction and favorable product experience. the short review is positive because it shows satisfaction and favorable product experience. the short review gives a brief opinion."
+    }
+]
