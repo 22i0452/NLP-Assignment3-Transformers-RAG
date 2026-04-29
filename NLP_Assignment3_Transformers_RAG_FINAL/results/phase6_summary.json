@@ -1,0 +1,38 @@
+{
+    "phase": "Phase 6",
+    "model": "Decoder-only Transformer",
+    "max_len": 160,
+    "vocab_size": 8125,
+    "d_model": 128,
+    "num_heads": 4,
+    "num_layers": 2,
+    "d_ff": 256,
+    "dropout": 0.1,
+    "epochs": 2,
+    "batch_size": 16,
+    "learning_rate": 0.0007,
+    "train_decoder_samples": 1200,
+    "val_decoder_samples": 200,
+    "test_eval_samples": 100,
+    "top_k_train_context": 3,
+    "rag_perplexity": 7.7282308195608405,
+    "no_rag_perplexity": 60.8990894323515,
+    "training_time_seconds": 149.27,
+    "causal_mask_used": true,
+    "autoregressive_generation": true,
+    "forbidden_modules_used": false,
+    "history": {
+        "train_loss": [
+            3.0423917675018313,
+            0.4178420402606328
+        ],
+        "val_loss": [
+            0.6060692117764399,
+            0.2608768045902252
+        ],
+        "val_perplexity": [
+            1.8332112524427326,
+            1.2980677395957327
+        ]
+    }
+}

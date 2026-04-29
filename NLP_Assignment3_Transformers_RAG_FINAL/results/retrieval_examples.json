@@ -1,0 +1,802 @@
+[
+    {
+        "query_index": 0,
+        "query_review": "this works so well...leaves my old all metal one in it's dust! careful...sharp and quick...a bit bulky for hanging against a wall, but easy to find in a drawer...",
+        "true_sentiment": "positive",
+        "true_length_class": "short",
+        "predicted_sentiment": "positive",
+        "predicted_length_class": "medium",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 1130,
+                "similarity": 0.9468976259231567,
+                "review_text": "work to secure the towers ..these should stop the casual theft but i think they would only be a minor inconvenience to the dedicated thief..easy to install..easy to use.. but as with all yakima accessories ...way over priced..",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "sports",
+                "rating": 4
+            },
+            {
+                "rank": 2,
+                "train_index": 3341,
+                "similarity": 0.9408963322639465,
+                "review_text": "this is a compass, not much to say about it. its lightweight, works as advertised. i keep it in my backpack when i go hiking. works well, doesn't get stuck, easy to read. no complaints!",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 758,
+                "similarity": 0.9320797324180603,
+                "review_text": "this was easy to set up and fun for the grandkid. i like the quality of the materials. it seems well made and should stand up to rugged use......cause that's what it is going to get.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "sports",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 1,
+        "query_review": "handles are nice and firm, compared to others that i've have bought",
+        "true_sentiment": "positive",
+        "true_length_class": "short",
+        "predicted_sentiment": "positive",
+        "predicted_length_class": "short",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 1376,
+                "similarity": 0.9804612398147583,
+                "review_text": "the magnets are handy, and you can fit a bunch in a small space.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "home",
+                "rating": 4
+            },
+            {
+                "rank": 2,
+                "train_index": 3032,
+                "similarity": 0.9793784022331238,
+                "review_text": "the battery works great and really happy of the product i would recommend this item to others that need it.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "cellphones",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 3728,
+                "similarity": 0.979261040687561,
+                "review_text": "i have always like hks products. it's a great value and fits the hks speed loads too. will last a long time.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "sports",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 2,
+        "query_review": "i am a headset junkie, and have tried most and owned many. to date, the discovery 925 is my all time favorite, retiring my 1st generation jawbone, which i reverted to after trying two different examples of the 2nd generation jawbone. both examples were inferior in every way to the original jawbone.i bought the d925 primarily because the hybrid soft silicon metal ear hook on the original jawbone was falling apart, with the rubber separating from the metal. also, the in ear fit of the jawbone was abysmal, which i complained about to the manufacturer and was told that other customers had reported solving this problem by using jabra ear gels from old wired headsets. i had some around, tried them, and they worked, improving the fit and comfort of the jawbone. when the new jawbone was introduced, i bought one, quickly returning it for what i thought was a defective speaker, which was tinny and raspy. the replacement unit was the same, and i returned that as well. the audio quality of the original jawbone was way better than the new, improved model.anyway, i have used the d925 for about a month now, and can report that it is, on balance, the best fitting and sounding bluetooth headset i have tried.ergonomics the default medium ear gel is the perfect fit for me, and the device is completely secure in either ear while remaining comfortable from dark to dark. i was skeptical that it would remain secure without an earhook, but it has never fallen out of either ear yet. and here's a great advantage to the design of this device you can quickly switch it from one ear to the other without changing earhooks! the eargel snugs down into either ear with a quick quarter twist, and removes just as easily. i don't use it, but the device comes with a neck lanyard that can be used to hang the device around the neck. the lanyard attaches into the micro usb charging port. another thing i really like about this device is that you don't have to go around with your ear blinking like a refugee from a borg ship. what good is that feature, really? can you look at your ear while wearing the headset to see if you're connected? all the connection indicator does is distract and irritate others in meetings, or conversational groups. good riddance! i have never used the small volume button on the edge of the unit, preferring to make volume adjustments from my blackberry. the large call answer button comprises the entire vertical surface of the device, and depresses easily and with slight tactile feedback. what a welcome change from the awful call answer button on the jawbone!audio speaker incoming audio is excellent, as good as the jawbone, which is also excellent. no complaints whatsoever.audio microphone outgoing sound quality is excellent, and sensitivity is excellent. see why four stars below. noice cancelling inferior to the jawbone, but still better than any of the other headsets i have used. called parties report some bg noise in busy restaurants or crowded events, but no road noise at freeway speeds. advantage jawbone.radio quality excellent. beats the jawbone in terms of range and quiet signal within close proximity.features a neat little black case contains a battery that will recharge the d925 once without ac. the leather maybe it's leather...doesn't matter case has its own micro usb charger input, and the d925 settles into it and connects through the same micro usb connector used to charge from the ac charger supplied. a standard usb to micro usb cable is also provided for charging from an available pc usb port. large, medium, and small eargels are provided. as with all late design plantronics headsets, pairing is a no brainer, with the device powering up in pairing mode on first use.why four stars, then? because the noise cancellation could be better, and because the d925 like the jawbone is very susceptible to voice blanking in the slightest air current. out in a slight breeze? forget it. find a sheltered area. i have to redirect or turn off the air conditioning in my car when making a call. if any air from the vents hits the device, it voice blanks and your other end caller hears niagara falls. i don't mean to over emphasize this, it isn't a big problem for me, just a minor irritation.i can heartily recommend this device. it's the best i've had or used.",
+        "true_sentiment": "positive",
+        "true_length_class": "long",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "long",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 3969,
+                "similarity": 0.9956222772598267,
+                "review_text": "i will start by saying that this is the third banner line scope i have owned, and my 9th bushnell scope. i have had excellent luck with their products, and this scope is a great example of why i will continue to use bushnell optics. for the money, the banner line offers good glass and coatings. i like them as much as many of my more expensive scopes. this model impresses me even more than the 6 24x40 banner that i have on my savage mk2 btv. the 6 24 is great, but at the higher powers in low light, the image becomes somewhat dim and eye position is very crucial. that doesn't matter much on a bright day at the range, so it is fine for that rifle, but this 6 18x50 model is so much brighter at all magnification levels, and is much less picky about eye positioning at 18x. the image quality is very good, the coatings are good at controlling flare, and the magnification and parallax rings both turn smoothly enough. everything about this scope seems too good to be true at this price. basically, if you want a scope for long range precision shooting and the lighting may not always be the best, this may be your best choice if you are on a limited budget.the only things i don't like, or think that a potential buyer should consider are this scope is not very heavy for its size, but it is large, and may be too big to look appropriate on some rifles.the scope will require very high rings on most rifles so that the objective bell may clear the barrel. if your stock does not have a raised cheekpiece, you will have trouble getting a good cheek weld. if you have a straight backed stock without a raised cheekpiece, you will want to either modify replace your stock, or go with a scope with a 40mm objective. for a compact rifle with no cheekpad, i can't recommend anything more highly than the super banner 3.5 10x36mm scope. it is one of the most enjoyable and useful scopes i own, because it works equally well on a squirrel rifle, a target gun, or a deer rifle, and doesn't add too much bulk or weight for the quality it delivers.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 1291,
+                "similarity": 0.9949221014976501,
+                "review_text": "let me begin this review with a short list of the higher end earpieces i've owned motorola hs490, hs750, micro i do enjoy this one the 490 was the first earpiece i owned, these ran around 125 retail at the time, aside from the micro which was 250...also the original jawbone and the second version the 199 retail models. i also tried a samsung and a sony in the same price range, and finally ended up happy when i picked up a plantronics 975 for 129 on sale when it was priced at 225.the 975 and 925 both come with a smallish leather case that has a li ion battery pack in it, which allows 3 5 charges of the earpiece, depending how close to empty the pieces battery level is. if the earpiece actually warns you vocally about low battery you've got perhaps fifteen minutes of talk time left...that's where you'll see the 3 charges. the earpiece can be placed into the case while you're recharging the case battery and it'll charge the earpiece first, then complete the recharge on the case. in my experience, placing the earpiece in the case while i'm out and about will take the lcd battery meter on the case which shows the charge on the piece goes from 1 bar to full in around 60 90 minutes.i personally wear both of mine on a plantronics accessory lanyard around my neck with the power on whenever i leave the house and find that if i spend perhaps 30 minutes on bluetooth talk and 3 hours on standby it easily goes 3 or 4 days before needing a charge. the 925 975 are essentially identical in this regard, i purchased the 925 due to loving my 975 and wanting a backup earpiece for days i'm on the phone nonstop and kill the battery. it lasts for 4 5 hours of talk time, which i found more than adequate until accepting a consulting position that has me on the phone for up to 8 10 hours a day. the reason i bought a 925 is so i can easily tell my headsets apart at a glance. i'll run one to empty, link the other, which is amazingly simple both show as plantronics 9xx on my iphone 4 and once i paired them both, they link up instantly when i turn either of them on, then i pop the dead one into one of the case chargers and move on with my day.both the headsets function identically, they just have a different look to them, but i'll close with a summary of the reasons why you should buy either a 925 or 975.if you want to be able to talk in a convertible or with your windows down, the person you're talking with will never even notice. the noise canceling mics 2 in each are positively amazing. the volume goes up to a quite loud level, i keep mine at 50 volume and only turn it up if i take a call while at a capitals or ravens game verizon center gets ridiculously loud but i still have no problem having a conversation on the earpiece...that says a hell of a lot about the quality of the microphone tandem and the speaker, which includes a variety of sizes of clear rubber inserts that hold the piece in your ear and blocks background noise surprisingly well. both of the headsets work flawlessly with iphone voice commands and alerts.in closing, i couldn't be happier with the plantronics earpieces, and i couldn't recommend them more highly. if you're deciding between the 925 and 975, they function identically just choose the one that you prefer the look of.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 735,
+                "similarity": 0.9948950409889221,
+                "review_text": "ten minutes to assemble and this is the first time i've put one together. the instructions are fine, if you actually read them, and don't try to re engineer the product or make it sound more challenging then it is. yes, the pictures on the box can get you there also as the small parts are already assembled, which leaves three larger assemblies to bolt together. the trap is sturdy, the welds are excellent, as is the paint and finish, and it is light enough to toss in the back of an suv or car trunk.going with the recommendations included with the instructions for spring tension and trigger setting, placing clays as the instructions suggested, caused the trap to throw clay pigeons exactly as the instructions predicted.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "sports",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 3,
+        "query_review": "yeah, i know, they warned me but i thought i was smarter than the average bear not so.if you have auto reverse on your tape player and you cannot shut the feature off, this will not work. it may work for a few minutes at a time, but will always end up frustrating you by switching every few minutes.if you can turn off the auto reverse or don't have it , it's a very solid product that sounded great.for those like me who need a fm transmitter instead of the tape version, i'd suggest the soundkase fm transmitter for ipod mp3s. we've been using it for a week or 2 with good results and from my research, probably the best results you can get if you can't use a tape connection .",
+        "true_sentiment": "positive",
+        "true_length_class": "long",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "long",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 463,
+                "similarity": 0.9930260181427002,
+                "review_text": "i'm generally a big oxo fan, but i don't particularly care for these measuring cups, particularly not at this price point.they are stainless steel, which is great, but oxo used that yucky black material that they started using a year or so ago, and it does not despite what they say on the packaging not hold up to dishwasher use.at least not with our bosch. i don't know whether our dishwasher gets particularly hot or something, but this particular black rubberized stuff that oxo uses starts to break down fairly quickly and it ends up leaving black greasy smears on anything it rubs across. yuckadoo.the other thing i don't care for with this set is that they don't nest nicely. if you're like me, you've got some cup hooks where you hang your measuring spoons and measuring cups so you can grab them quickly and get on with cooking. my other measuring sets hang nicely together. with this set the handles are too thick and they won't do that on either my small and large hooks.altogether, these are nicely balanced. if you put them down, the handles don't make them fall over. but this is a set i'll have to hand wash, and despite the fact that these are oxo, i've got to say that you are probably going to be able to find better ones for less money.pam t mom baker in residence",
+                "sentiment": "neutral",
+                "length_class": "long",
+                "category": "home",
+                "rating": 3
+            },
+            {
+                "rank": 2,
+                "train_index": 4168,
+                "similarity": 0.9919754862785339,
+                "review_text": "not bad, i had one of the knock off brands of this, chicago tools one from harbor freight and this was about the same in accuracy except it obviously has all the features of storing all the data on how much total electricity that devic you plugged in used and estimated cost based on the cost per kw you enter in. pretty nice device, yes it sucks that the outlets get taken up when you plug it in, but its not like you need it on there for ages, you just need to see for a short period of time how much power that particular device is using and then take it off. since purchasing this, i now have a whole house monitoring system ted 5000 and love it. i use this now to monitor any single device on demand when i need to.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 4
+            },
+            {
+                "rank": 3,
+                "train_index": 3642,
+                "similarity": 0.9919632077217102,
+                "review_text": "great knife. i think it's skirting the lines of legality in my state because you can flip it open, but it's not a gravity knife it holds itself closed and it has a locking mechanism to hold the blade open, so it seems to fit within the letter of the law.the shark tooth tip is a neat design idea that gives it a very sharp point, there are serrated edges towards the handle that help out if you're trying to cut through something like twine or wires, it has a belt clip if you're toting it around as a utility knife but is also small enough to easily fit within your pocket.if you're looking for a good utility buck knife you might as well get something like this. the flipping action and one finger lock disengage means you can easily use it one handed and it seems rugged enough for everyday use in the tool belt. no more dropping what you're doing so you can pry the blade out or safely close it, just a little wrist and thumb action will do it.edit i've had this knife for almost 2 years now and i still like it. i use it frequently primarily for cutting open boxes from amazon... cough and can't get enough of the wrist action on it. it's so nice to be able to open and close it without having to pry the blade out 2 handed style like other utility knives. can't say i can really comment on the whole knife fighting aspect other reviewers mention don't do much knife fighting myself... you know... busy busy... but as a simple utility knife, it's hard to beat. still sharp, too.edit 2 dec 2007 still have the knife. still like it. another reviewer said this knife was double bladed i assume that means sharp on both sides but it's not. you might think it was from looking at the picture, but mine, which i ordered from this page a few years ago, is only sharp on the bottom, with the exception of the shark tooth tip, which is sharp on both sides, but only for a distance of like 1 8 or so the very sharp tip is great for getting started on those highly annoying, nearly invulnerable hard plastic packages everything comes in these days .",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "sports",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 4,
+        "query_review": "when i bought the previous version that had the swivel clips i wasn't to keen on using it too much. but now that they changed to standard carabineers instead, i decided to buy a second set, which i use more regularly. also i recommend getting the new extra strength orange and purple bands, sold separately. i would say the only drawback may be is that the bands, all bands not just the two mentioned, are a little short for some people, and probably best suited for people in the 5'4 to 5'9 range. i'm not saying people below and above that range shouldn't get a set. let me just make it clear the height range i gave is not a concrete standard. it's just an opinion as to how i feel. i'm 5'11 and i'm very careful how i use my bands. black mountain is a very good company with awesome customer service, and they're always working on improving their products. for the price and some common sense usage it's tough to find a better basic set than this. my previous swivel end set is a souvenir i keep in my closet. i hope they come out with a new set the has all 7 bands, 2 ankle straps instead of just 1, 2 sets of handles that are bigger than what they have now, a door anchor with a cushioned liner, and a really nice bag to put it in. if and when that comes out i'll be getting that for sure and ready to post a 5 star review.",
+        "true_sentiment": "positive",
+        "true_length_class": "long",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "long",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 3114,
+                "similarity": 0.9949916005134583,
+                "review_text": "review on original purchase i was tasked by my office manager to purchase some headsets to make our office calls easier. i looked at corded headsets, cordless, and a variety of brands, but this unit kept coming up with high praises.the clarity is great, and it has a variety of volume macro and micro for both the mic and earpiece. it works seamlessly with any phone system and has a multitude of connection options. the range allows us to go to the end of our warehouse to look at stock while talking with the customer. not to mention that if i'm not at my desk and the phone rings, i don't have to rush back. i can use both my hands to look up quotes, and stock while i'm on the phone without craning my neck. their are earpieces and over the head options. not to mention the battery life lasts all day as long as you plug it in at night.this order was to add to the existing setup we already had. love these things!",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 1682,
+                "similarity": 0.9946233034133911,
+                "review_text": "i have numerous amount of usb thumb drives which all have the little loop on them. however, do to cost cutting, they don't come with them any longer. so i decided to purchase some for myself. i have a usb drive that is thumb nail size. this one has the smallest loop of them all but with the help of a paperclip, i was able to get the strap in. this allows me to remove the drive from my pc with little trouble. they are not too long about 2 inches, so they are the perfect size the price for 10 wasn't much more than the price for 1, so it made sense and i have extra in case one breaks.though the scheduled arrival date was a few weeks back from what i wanted but it did come within that time without an issue. all 10 appear to be in good shape and are not damaged upon arrival. they came in a small clear zip bag, within a large shipping envelope.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 760,
+                "similarity": 0.9946182370185852,
+                "review_text": "almost nailed it with this one, bracketron. first, the good the mount is solid, it stays stuck to the glass, and the flexible arm bit is very stiff and hard to adjust but really stays put once you have it where you want it. now, the not so great the flexible arm seems to vibrate quite a bit while you drive, and the expanding bracket does not work as well as promised. in fact, the button on the side only seems to open the bracket if you have it rotated 90 degrees to the left as in landscape, with the button pointing up . i took it apart and realized that this is because there is an assortment of rather cheap gears which rely on gravity to allow the button to only work in one direction. i much prefer my grip go, but if you need a longer mount and or one with a bracket then this one isnt bad for the price, just not perfect.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "query_index": 5,
+        "query_review": "i think this is helpful when you master using it...which can take a bit of time if your used to using a knife. having always used just a paring knife to cut and de vein getting the hang of this was a bit of a struggle. i thought, being a bit of a foodie, i quot needed quot this.. need, is a strong word...but i do like this now...the pre cleaned and easy peel shrimp is much more espensive than just the shrimp in the shells...this does make it a bit easier.once i got it, i think i am faster than i was. so since it doesn't take up much space and isn't expensive i think this was a good purchase.that said... its a bit like a grapefruit spoon or melon baller in that it can be very nice to have and extreamly convenient to have under the right circumstances...but as to really needing it.. that is a hard call.",
+        "true_sentiment": "positive",
+        "true_length_class": "long",
+        "predicted_sentiment": "positive",
+        "predicted_length_class": "long",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 3898,
+                "similarity": 0.9875775575637817,
+                "review_text": "there's not much to say that hasn't already been said so i'll make this short. this is my second bluetooth headset. the motorola h700 was the first and i really liked it.pros good sounding audio. very clear and sharp. people hear me very well and don't know i'm on a headset until i tell them. noise cancellation works well. did the dog barking test and it passed. it's comfortable to wear. very lightweight. carrying case that doubles as a charger is excellent. not bad looking. easy to pair and plantronics has a great tutorial online if you need help. ... makes it easy to wear glasses since it doesn't have the earloop.cons for those who wear it while driving like i do and have a nice stereo in their car it dampens the audio from the ear you're wearing it in. the motorola h700 did not do that because it fit on the ear and not in it. of course this only applies to when you're not actually on a call. buttons are small. charging connector is small and directional and therefore difficult to insert at times.overall i think it's a great headset and amazon has buy far, the best prices. i think you'll be happy with it.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 4
+            },
+            {
+                "rank": 2,
+                "train_index": 2393,
+                "similarity": 0.9872407913208008,
+                "review_text": "i absolutely really like this stuff regardless of bottle size it comes in... i have used it on an inflatable zodiac powerboat and it kept the material hydrated, pliable, from fading providing excellent color retention from the sun and elements.i use it on my vehicles interior exterior... anything plastic, vinyl, leather, rubber. as the product label states, it provides protection and beautifies.. it does! you'll notice a renewed appearance on anything you apply it to, your cars interior, exterior trim... will appear as showroom new again!what i do to apply in a quick easy way... i use an old cotton sock, like a gym sock. i turn it inside out, so the terry cloth material is on the outside, this helps get it into textured surfaces. just place the sock on your hand, spray it down with the other, and apply. easy to control along edges, so you don't slop up adjacent surfaces not intended to be coated. the cotton retains quite the load of spray so you can cover large area's like a truck tonneau cover, etc.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 2301,
+                "similarity": 0.985191822052002,
+                "review_text": "i've eaten a heck of a lot more salad since buying this product. that alone should tell you that it's a good product. however, i'll expand on that with some more details.pros salad keeps a lot longer. no more of those mushy pieces at the bottom of the bag bowl. it all stays nice, crisp, and fresh. it's extremely easy to wash. use the colander to wash it, then put it in the spinner and empty out the water. simple. put the colander in, attach the lid, and press the button a few times. it's easy to do and gets most of the water off without extra work. doesn't slide around on the counter or move. you can just press the button a few times and let it go. very easy to clean. just wash it in the sink. no nooks, crannies, or crevices for stuff to get into.cons the stopper button doesn't function very well any more. it's been about 4 months, and it feels like it is wearing down. it's not a big deal since it does stop on its own eventually.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "home",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 6,
+        "query_review": "i wanted a peeler that would work on large items better and bother my hands less. this was that such peeler. great grip, easy use and a durable product. i've had it for about a month and it is by far my favorite food prep tool in my kitchen. much better than anything you'd by in the dollar store. if you want to make short work of a butternut squash, this is the peeler for you.",
+        "true_sentiment": "positive",
+        "true_length_class": "medium",
+        "predicted_sentiment": "positive",
+        "predicted_length_class": "medium",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 1701,
+                "similarity": 0.9658141732215881,
+                "review_text": "i bought this little vegetable scrub brush because i was tired of using paper towels to scrub vegetables every time i cooked them.this brush has been great so far. it has strong bristles and is very easy to handle. i trust highly in the oxo name and haven't been let down by one of their products yet.i highly recommend this product, especially for the price.you can't beat it with amazon prime.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 2501,
+                "similarity": 0.9637507200241089,
+                "review_text": "i bought this almost two years ago, and have used it almost daily since then. it does a fine job and is holding up very well. it still looks new, in fact. i have a blender, food processor, and heavy duty stand mixer, and i use them also, but for small jobs, like beating a couple of eggs or whipping up some homemade mayonnaise, i prefer this handy easy to clean gadget.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 2209,
+                "similarity": 0.9627240896224976,
+                "review_text": "this is an absolutely superb can opener. it's so easy to use a four year old child could operate it and makes opening cans about as much work as eating a bowl of ice cream. we had another oxo can opener previously, but this one is by far the downright best can opener we've ever owned. i would highly recommend it if you want to make opening cans as easy as taking a breath of air.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 7,
+        "query_review": "i use this unit with my palm treo 700w, which has a pretty lousy bt radio, so that may explain part of the reason why the range is so awful with this headset. max range with clear line of sight is about 6 feet, but usually less then 24 inches. it is barely usable if the phone is on my waist in its holster. major disappointment. my jabra bt250 is better with the treo, but not hugely so.my biggest problem with this headset is that people are constantly telling me that they can't hear me. i have to lift the mic boom away from my cheek and then they will say ah! much better! . when that is only the case while i stand there like a dork with one hand holding the mic boom away from my cheek and the other hand holding the phone within a foot of my head. this looks pretty silly walking down an airport terminal, and rather defeats the purpose of having a headset in the first place...i'll say this, though the h700 performs the feature that i was looking for which was so bad with the jabra bt250 it actually stays on my ear. i have small ear lobes, and the jabra won't stay put if i lean down it falls off. the h700 stays on very well, and you hardly notice it is even there. very comfortable!too bad the mic gets blocked by my cheek, which makes it worthless about 50 of the time. update 5 11 2006 solution to muffled sound problem...i trimmed a tiny piece of adhesive backed felt the kind you put under bowls vases, etc. you will have on your coffee table and placed it on the little gray bump on the boom, just behind the tiny mic opening. this creates an air gap between the mic opening and your cheek problem solved!a great headset with pretty good reception and wonderful form factor. 5 stars if they fix the mic hole clearance problem!",
+        "true_sentiment": "neutral",
+        "true_length_class": "long",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "long",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 738,
+                "similarity": 0.9941504597663879,
+                "review_text": "this is my first every bluetooth headset for my cell phone. all this time i managed by not picking up the phone while driving or talking on the phone directly.i then thought now the time is right to try this device.it works great with my iphone 4. pairing was very simple and quick.first i thought how will it stay in the ear without the clip that goes over the ear that i have seen most of the time, but the device is so light and the gel earplug is grips with skin so much that it does not fall off even if i shake my head vigorously.one thing i have noticed is that, if you put the device on the left ear, the usb charging slot is on the underside, while if you put it on the right ear the usb slot is on the upper side, what potentially can happen is, if you walk into lightly raining weather or walk under a tree just after a big rain. any single drop of water could just go through the charger slot easily.the device is so comfortable that i sometimes forget that i am even wearing it.i took a star off due to the horrible horrible plastic packaging.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 4
+            },
+            {
+                "rank": 2,
+                "train_index": 2976,
+                "similarity": 0.993510365486145,
+                "review_text": "i got unit this after i was in a park with no power on my battery sucking droid x. as far as i could find, it is the only unit that works in any fashion. everready has a weird thing for 9.99 at target, but it did not charge at all.it is small, solid and feels well made. the only moving part is the push switch that pushes out the mini usb to plug into the charger port on the phone. the light appropriately glows when the unit is charging and charging a phone. it is too bulky to fit comfortably in a pocket for an extended period but perfect to keep in any small carrying bag. it would fit in a typical car ash tray.droid x and other micro usb port owners must buy a miniusb f to microusb m adapter.the unit plugs into the adapter which plugs into the phone. it does trickle charge my phone. after about 15 minutes my x went from 0 to 10 . another 30 minutes 45 total with the phone off was required to go to 20 . the unit is not made for the higher powered battery type used by the x. once i confirmed that the unit will charge the battery enough for use, i did not see how long it took to charge, how many recharges i could get, or how long the unit will hold it's own charge.now, with that all said, the only place to comfortably accomplish this is to leave the phone and unit sitting quietly on top of a desk or other surface. while the unit plugged into the adapter plugged into the phone will fit in cargo pants pockets or a bag, the adapter will invariably and in shortly unplug from the phone. i found myself carrying the phone with the unit in the same hand, which is serviceable and not as uncomfortable as you would think. and it did not stop the adapter from regularly popping out of the charging port on the phone it never popped out of the unit . using it in this fashion kept my phone operating at least 30 minutes longer than if i did not have the unit.so, the unit works. it is portable and it charges the phone.i would recommend this because the x only lasts at most a day on a charge, and if you get stuck for any period of time the essential time when you would want your phone operational this unit, for a small insurance investment, would keep it going.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 4
+            },
+            {
+                "rank": 3,
+                "train_index": 782,
+                "similarity": 0.9934122562408447,
+                "review_text": "shure's quietspot headset is the best headset on the market, period. the only problem with it is shure's coyness about how it works and why microphone placement is absolutely crucial when using it. once you understand that, you understand everything you need to in order to want it more than you want anyone else's.the problem with the quietspot mentioned by other reviewers here is not a failure of engineering or quality control, but one of emphasis in their documentation. barring an actual defective unit which will usually not work at all there is nothing wrong with the quietspot that proper adjustment doesn't totally eliminate. i believe that shure doesn't tell you this for fear of alienating technically unsophisticated customers. since i have nothing to sell you, i am blissfully unconcerned with boring you and can write something useful. please note that i write this on the basis of a close examination of a working quietspot and an educated layman's knowledge.observation tells me that, shure's quietspot headset uses active noise cancellation and it is the only cellular headset on the market that does. this means that the mouthpiece of the headset uses two microphones one takes in the sound from the world around you while the second takes in the sound from your mouth.using a trick of wiring, this dual microphone arrangement uses the sound from the outside world and uses it to weaken the sound from the microphone closer to our mouth. since both microphones take in surrounding sound, the strongest sound that isn't cancelled out is your voice.for this to work, the microphones need very good alignment with your mouth. the quietspot demands that you have the 'mouth side' microphone pointed directly at your mouth, and the 'world side' microphone pointed directly outwards without mis alignments like having the microphone housing too far below or two far above the side of your mouth, or having the microphone housing turned on its side.the tough part about this is that the boom that holds the microphone can twist and bend while the quietspot is in your pocket or case, turning the microphone head around onto its side. if the microphone head is turned on it's side, or set too far above or below your mouth, then both microphones pick up your voice with equal intensity and the arrangement does exactly as it's supposed to it treats your voice like background noise and sends everything you say off into oblivion.the solution is easy and useful you have to learn to put the quietspot's microphone in the right place every time you put it on. once you learn to do this with the windscreen on, you have what is close to the perfect headset. i have used the quietspot, standing in bars in new york city with the jukebox blasting and not had to raise my voice very far above an ordinary conversational volume and with the quietspot's noise blocking earpiece, i could hear my listener perfectly. the two way noise elimination of a well adjusted quietspot is amazing, providing a sense of intimacy and privacy in conversations that no other headset ever gave me including one or two that cost more.the only other thing you need to know about the quietspot is that it is particularly sensitive to wind noise and unless you intent to never use it outside, it is best to keep the windscreen permanently attached to the unit. you can do this with a needle and thread through the foam, or with a thin strand of wire. once you've done this, you'll have to learn to make the important adjustment by touch but even then, it's still easy.now that you know all this, give the quietspot a try. you won't be disappointed.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 8,
+        "query_review": "this book is good for some one that has taken the wilton class it has some useful tips not really what i wanted yet it's not bad it can be useful",
+        "true_sentiment": "positive",
+        "true_length_class": "short",
+        "predicted_sentiment": "neutral",
+        "predicted_length_class": "short",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 399,
+                "similarity": 0.9665691256523132,
+                "review_text": "we bought this to rinse our quinoa. it's mesh is fineenough to where the product does not leak through.it is not flimsy and seems to be well made.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "home",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 4191,
+                "similarity": 0.9656702876091003,
+                "review_text": "this lock jammed immediately when i tried to change the default combination. i would hate to think it would jam when it counted most. not recommended.",
+                "sentiment": "negative",
+                "length_class": "short",
+                "category": "sports",
+                "rating": 1
+            },
+            {
+                "rank": 3,
+                "train_index": 4070,
+                "similarity": 0.9642915725708008,
+                "review_text": "the product was ok however the material is somehow cheap looking leather. i am expecting something with more natural feel on it and not the one with shining look.",
+                "sentiment": "neutral",
+                "length_class": "short",
+                "category": "cellphones",
+                "rating": 3
+            }
+        ]
+    },
+    {
+        "query_index": 9,
+        "query_review": "now tsa approved, these are the best. i have a knife collection, and i carry a sog flashback, a gerber dime, and this knife daily. i rarely break out the sog, the dime only gets use due to its excellent package opener, but the classic is in constant use. mostly, i use the tweezers, toothpick, and screwdriver. i bought one for everyone i know!",
+        "true_sentiment": "positive",
+        "true_length_class": "medium",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "medium",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 179,
+                "similarity": 0.9526218175888062,
+                "review_text": "been out for a long day and your phone's running low? this thing fits in your pocket. or purse ladies , and will get you through the night. actually, i put it in my daughter's purse as she headed off to prom that was 3 weeks ago, and i haven't seen it since. proves it was the right purchase as she kept her samsung galaxy siii going strong all night.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "cellphones",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 1760,
+                "similarity": 0.9525982141494751,
+                "review_text": "if you ever purchased a double burner, you know what a pain it is to haul around. well, this well made and sturdy bag, sure helps when you are walking back and forth from the car to the beach campsite. i would buy this again in a heartbeat. all my friends want one and the price on amazon was once again, right on.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 4123,
+                "similarity": 0.9505932331085205,
+                "review_text": "this item is available from many sellers. the diversity of the feedback clearly indicates that they are not all selling the same thing. based on other reviews, i purchased from cellular 5 star, and i was very pleased. the cables and connectors were of high quality and fit my devices perfectly. it's great to have spare dock usb cables around when you have a lot of idevices in the house.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "cellphones",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 10,
+        "query_review": "i recently started swimming as an adult. chlorine bothers my eyes a great deal, and i asked my swimming teacher to recommend a good pair of goggles. he recommended speedo hydrospex. i immediately went for the adult size, but he explained that the most important aspect of a good fit was the sizing and shape of the eye cups, particularly if you have a narrower face. we then tried on all three sizes speedo makes, starting with the smallest for children. they were clearly too small, and we moved on to these, the junior hydrospex classics, which i also expected to be too small. i was wrong. they were a perfect fit for the geometry of my face. the adult goggles were ok but a tad too large and i think i would have had much more leaking with them.despite being an adult, i fit the junior hydrospex perfectly, and i am grateful to my instructor for having me test fit these. the moral of the story is clear if at all possible try on the goggles you're looking at before buying as you could be surprised about what fits best.i got the clear goggles i tried the tinted ones and they were too dark for my preference and have had no problems with leaking or fogging. they are comfortable and keep my eyes mercifully free of chlorine. i have been swimming with them twice a week for a few months now, and they are holding up well so far. i highly recommend speedo hydrospex classics to anyone doing a lot of swimming just make sure you get the right size for your face.",
+        "true_sentiment": "positive",
+        "true_length_class": "long",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "long",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 1373,
+                "similarity": 0.9930379390716553,
+                "review_text": "i just got this phone as a replacement for my curve 8300. boy, was i impressed. it runs fast, keeps up with my typing you can do most anything on this phone. email set up is a breeze i love using the custom ringtones for people in my address book. you can easily create your own wallpaper songs for it and upload without confusion.the downsides are no video and i detest that the memory card is behind the battery, making it take forever to power down and access. beware, this phone takes awhile to boot up, but once it gets going, it's fantastic.i've read that the usb connections go bad on these phones and when my blackberry curve 8300 stopped charging, i believed it. but i loved it so much, i bought another. i checked out the new bold but was unimpressed by it's bulky size and the flat keyboard makes it hard to type this phone is much better!",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 4
+            },
+            {
+                "rank": 2,
+                "train_index": 3831,
+                "similarity": 0.9924477338790894,
+                "review_text": "i've had these for a while and liked them. if i wear them for more than 30 minutes, the top of my ears against my head hurt. i was willing to put up with that because i liked the wireless aspect, and they sounded good. the ear cushion is great, it's just the weight pushing the rubber shark fin piece against your ears that hurts after a while.recently i laid them down at work over the weekend. i guess i laid them down incorrectly, because they are now misshapen. once that happens, you are out of luck. they will no longer fit against your ears.so they sound great, but no longer fit. i think the ear pieces are just too heavy and it relies on the plastic head neck band piece to maintain an exact shape.anyway, i am disappointed and will not buy this model again.",
+                "sentiment": "neutral",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 3
+            },
+            {
+                "rank": 3,
+                "train_index": 23,
+                "similarity": 0.9924335479736328,
+                "review_text": "i picked up one of these knives as a work knife for my hunting lease. i used it all this past season and was impressed. very sharp, and so light it almost feels like a toy. it cut burlap, canvas, camo netting, 550 cord and other assorted rope effortlessly. it wouldn't be appropriate for chopping too light , but it's definitely a cutter. it would be great as a tackle box knife and i'm sure it would be satisfactory for self defense if necessary. a few minor criticisms the serrated edge portion of the blade is so small its essentially worthless. i'm not a fan of serrated edges on knives to begin with if i had it to do over again i'd buy the plain blade. my other criticism is that the sheath feels flimsy, i would much prefer kydex or even leather. this would be an ideal fixed blade knife for kids or adults with smaller hands. i'm becoming more of a sog fan than i ever expected to be. i prefer a heavier knife and bought a sog super bowie 2.0 fabulous blade! . all in all, a great knife for the price. i would recommend it.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "sports",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "query_index": 11,
+        "query_review": "this is a great pastry bench scraper. i primarily use mine for cutting gnocchi, and it does a great job.pros keeps its edge stainless steel easy to clean comfortable handle includes measurement marking they are engraved on the blade which is very handy they will never rub off!cons none",
+        "true_sentiment": "positive",
+        "true_length_class": "medium",
+        "predicted_sentiment": "positive",
+        "predicted_length_class": "medium",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 150,
+                "similarity": 0.9788233637809753,
+                "review_text": "i got this to seal my pop up tent camper. i was concerned whether a gallon would be enough, luckily i had a little left over so i could do touch ups if i need to. i used a pump sprayer and it went on nice and easy. the water and dirt repellency is as great as i was hoping for.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 3112,
+                "similarity": 0.9740628004074097,
+                "review_text": "i agree with some of the other reviewers that the handles might bend when scooping very heavy substances like brown sugar. for most tasks, however, these measuring cups are fine. i love the fact that they are dishwasher safe and that the labels are easy to read. i am very happy with this set of measuring cups they are a great addition to my kitchen.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 2790,
+                "similarity": 0.9733918905258179,
+                "review_text": "this oxo good grips measuring cup set coordinates well with my stainless steel kitchen. the cups nestle nicely and they clean up easily and do not stain. i can throw these in the dishwasher unlike my many sets of plastic cups. they are easy to remove from the hook and like most oxo products, seem to be made to be durable and long lasting.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 12,
+        "query_review": "this has been such a handy tool. it's sturdy, not flimsy. the handle is solid and easy to grip i really like that the measurement numbers are engraved etched permanently and not just painted on. the blade itself, doesn't flex or bend at all, but is thick and sturdy. i love to use it for clearing the counter of flour and whatnot after rolling or kneading baking items, scooping up mounds of chopped things to toss them into pans or bowls, cut brownies evenly sized, unstick dried bits off the counter or steel pans, and much more. it pretty much does it all!! be sure to purchase a few to add to bridal shower gifts, too!",
+        "true_sentiment": "positive",
+        "true_length_class": "long",
+        "predicted_sentiment": "positive",
+        "predicted_length_class": "long",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 4038,
+                "similarity": 0.9916025400161743,
+                "review_text": "this was my first pressure cooker. i bought it because it was cheap and be easy to operate. it was both of these and more. i learned to cook with this aluminum cooker, how to gauge time and amounts of water etc. mirro has been around forever and replacement parts are readily available for all their cookers. as with all aluminum pressure cookers, the metal will react with some foods and can overheat if you are not careful. this style cooker has the jiggler valve on the top that rocks back and forth and hisses when pressure builds. personally, i like this as it provides audible and visual feedback as to what is going on inside. you can go in the next room and still hear the hissing and know everything is going well.this and all modern cookers are very safe if you follow directions. i was afraid of pressure cookers most of my life and this inexpensive one has soothed my fears. it comes with a heat diffuser disk that sits on the bottom of the cooker and a nice instruction recipe book.you can't go wrong with this, especially if you are a novice who does not want to spend big bucks on the electric cookers or expensive swiss ones. it does the job and does it well.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "home",
+                "rating": 4
+            },
+            {
+                "rank": 2,
+                "train_index": 2895,
+                "similarity": 0.9912070631980896,
+                "review_text": "i purchased this unit a couple of days ago, then upgraded to windows mobile 6.1. an easy upgrade even works on 64 bit vista , wm6.1 is fairly straightforward to use, and stable overall. i have had an applet crash, however. it's a speedy performer out of the box, though sometimes screen refreshes were a little slow.it turns out there's a brouhaha over a lack of tightly integrated video drivers for this device, which is capable of running much faster.along with the crashing applet an htc background running utility htc is the company that actually makes the tilt , i really hope they come along with a better video driver. this unit is good, and is a good smartphone pda, but it could do better.the keyboard is awesome.the touch screen is as sensitive as my previous pda ipaq 2755 .boots fast.has a crisp, bright screen.and whose processor is not intel arm based. this needn't worry you unless you're into using hacking, overclocking, or other gray area utilities. those apps may not work entirely on the tilt's cpu.the other apps i've used, from backup to office suite to games to shell add ons do work nicely indeed. so don't think this device can't run. it does and nicely overall too.battery life is so so 1300mah is not much. larger batteries are available, but they will make this thing huge.all in all, it's a good performer, and windows mobile 6.1 is a treat. but the omissions on the part of the manufacturer the aforementioned video drivers is most confounding. htc is known for doing better. but that gripe aside, it really is a top ranking mobile unit.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 4
+            },
+            {
+                "rank": 3,
+                "train_index": 3,
+                "similarity": 0.9910181760787964,
+                "review_text": "i'm very happy with this can opener. it has extremely smooth action and is effortless to use...very easy on the wrist! i also like the fact that it's stainless steel so i don't expect it to rust as others have in the past. i read the reviews on this product before i purchased it and do disagree with a few of them. although the can opener works great i have yet to have it completely detach the lid from the can. when the opener has gone completely around the lid there is always a tiny piece of lid attached to the can that i have to twist off. no problem as far as i'm concerned but i'm noting it because other reviews claim the lid is completely removed.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "home",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "query_index": 13,
+        "query_review": "i bought this primarily for the headphones rather than the hands free aspect, so this relates to the headphones. they sound much better than i had anticipated, and i would recommend this for anyone with a compatable lg phone.i used the hands free a couple of times and it works reasonably well, but does pick up enough outside wind noise to make it not practical on moderately to very windy days.",
+        "true_sentiment": "positive",
+        "true_length_class": "medium",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "medium",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 3804,
+                "similarity": 0.9685702919960022,
+                "review_text": "otis offers a dozen of these kits, but this is the one to get. covers nearly all calibers. just buy this and add the little specialty tools that come in other packages ar bolt cleaning tool for example . obviously they are aware of this as the kits now cost 15 more than when i purchased this last one. at the current price, buying from amazon is not that great a deal.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 3271,
+                "similarity": 0.9677907824516296,
+                "review_text": "i got this because i needed something that won't tear up my non stick pans. i love the handle, but it is a lot bigger than i thought. i mainly use this for gravy, and it's just to big and flimsy. i'd prefer something a little smaller. also, it has little groves at the bottom of the handle that hold water after washing, because of this it's better to hand wash than in the dishwasher.",
+                "sentiment": "negative",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 2
+            },
+            {
+                "rank": 3,
+                "train_index": 2999,
+                "similarity": 0.9675316214561462,
+                "review_text": "i purchased this for use with my mophie juice pack plus external battery case for iphone 5 after the included cable died. sound quality isn't changed from if i just plug my headphones directly into my phone. mini remote on bose headphone probably others too and microphone talking on the phone also work with this extender. i feel like eventually it will give out but i have 4 as back ups!",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "cellphones",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 14,
+        "query_review": "the tip is waaaaay too big for what i was wanting.. not sure what this would be needed for, i got for a phone, maybe a tablet?",
+        "true_sentiment": "neutral",
+        "true_length_class": "short",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "short",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 2161,
+                "similarity": 0.9881131649017334,
+                "review_text": "this was a big hit with one of my daughters for christmas. it was by special request and now she would not be without the spinner.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "home",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 2932,
+                "similarity": 0.9880619645118713,
+                "review_text": "this is a really nice balloon whisk, it will be perfect for making eggs or batters. really sturdy and not to difficult to clean.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "home",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 3499,
+                "similarity": 0.9879024624824524,
+                "review_text": "i love these tongs. the locking mechanism is simple, and exceptionally useful in keeping these things out of the way when they are not picking stuff up.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "home",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 15,
+        "query_review": "i received the product today. it's okay and i'll order another one later on to alter it to the first one to hold 40 rounds instead of 20. all in all its really cool, and i recommend it to all hunters!!!!!!!!!!!!!!!",
+        "true_sentiment": "positive",
+        "true_length_class": "medium",
+        "predicted_sentiment": "positive",
+        "predicted_length_class": "medium",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 3528,
+                "similarity": 0.9447219371795654,
+                "review_text": "many relatives have tried to steal these already! i got 2 and both are great, they also work great for chopping have not had to sharpen yet !! cuts chicken well to, the sharp edge really let you get under the dough without tearing it",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 284,
+                "similarity": 0.9439608454704285,
+                "review_text": "outerbox makes a great product that keeps my expensive phone safe! worth the money! this is my second one, the last one was falling apart from a lot of wear and tear. i beat it up pretty good, dropped my phone a several times and this case kept it safe!",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "cellphones",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 1738,
+                "similarity": 0.943393349647522,
+                "review_text": "so i needed a heavier set dumbbells for my home gym i'm starting body beast . but i was dreading having to go to the store and tugging one all the way home its 60 lbs after all. buts that's where amazon comes in. they shipped it to my front door for free!!",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "sports",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 16,
+        "query_review": "i have bad knees. they often hurt a lot and i have a hard time walking for long periods of time. i saw the doctor and to avoid a long and unnecessary story, therapeutic exercise was the best suggestion. i compromised on what exercises i was willing to do i was given a list of knee exercises 3 pages long and selected four.i already exercise so i added the four knee exercises to my lower body days. i use only one band the red one to basically move each leg in all four directions, exercising the muscles around my knees. my knees have been much better.another ankle band would have been nice. i had to buy one from another vendor. switching the hook from one band to the other is much faster than taking off the cuff and placing it on my other ankle constantly.i like the bands and they are a great price. i recommend them to anyone. i just haven't used them for enough different exercises to know how well they work for other things.",
+        "true_sentiment": "positive",
+        "true_length_class": "long",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "long",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 518,
+                "similarity": 0.9940423965454102,
+                "review_text": "seems like bluetooth headsets are a very subjective experience. i have a treo 700p and i tried a number of different bt headsets before i settled on the hs850. i have no problems pairing with my phone and it fits my ear just fine. what sold me on this particular headset was the outgoing sound quality. my wife, mother, and paralegal all report that this is the best sounding headset i have had. it does a good job of avoiding background noise. i previously had the jabra jx 10 and despite good reviews from others, i found the outgoing sound quality low when there was any background noise. the only criticism i have of the hs 850 is that the incoming sound could be louder.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 4
+            },
+            {
+                "rank": 2,
+                "train_index": 3421,
+                "similarity": 0.9928412437438965,
+                "review_text": "every kid has a tricycle, don't they? well, it's such a standard toy it almost seems so. my boy just had his third birthday so i got him a trike. it was a radio flyer classic and was all decked out in red, white and chrome. nice toy. just as i remember from my own childhood. i got it at toys r' us. too bad i didn't check amazon as i could have saved twenty bucks plus tax.the trike came in a box and took about 10 minutes to assemble. real simple. when he first saw it he was afraid. that didn't last long. i rang the bell a couple times and his interest was piqued. the next day we went to a neighborhood playground and tested it. first, the trike was a little too big for him. it specified 2 1 2 to ?, but his legs weren't quite long enough. with the seat all the way down, his feet won't stand flat on the ground and with his feet on the pedals, they aren't quite long enough. no major problem. he'll grow. it's just a matter of a couple more months. i sat him on the seat and put his feet on the pedals and pushed him around the basketball court. he loved it, although his steering is going to take some training. in any case, it was a success and he wanted more.the trike is quite handsome and well built. i would j udge that it would last and last. some people complain about stability and i can understand. that just seems inherent in trikes. there's going to be a certain amount of bruises and scuffs. that's just part of childhood, isn't it?gary peterson",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 428,
+                "similarity": 0.9928193688392639,
+                "review_text": "i have owned this item for at least five years, i don't believe that i've never reviewed it. this was one of the first bluetooth headphones to come out and i still believe it is one of the best. i have only a couple of things that i would consider to be cons. 1. the headphones are really heavy on your ears. it becomes painful after a while. 2. the buttons are really sensitive. i have accidentally called and hung up on so many people that it's ridiculous. on the other hand, i love the ability to listen to my mp3 player and use my phone with the same headset. i have been told by many people that the sound is incredible compared to their bluetooth headphones. the bass is wonderful and people can hear me clearly when i make a call. it picks up background noise which is not good, however. i tried other headphones and i keep coming back to these. they are, by far, the best pair that i have owned.",
+                "sentiment": "positive",
+                "length_class": "long",
+                "category": "cellphones",
+                "rating": 5
+            }
+        ]
+    },
+    {
+        "query_index": 17,
+        "query_review": "like the title says, if you prep the gun metal properly with a good acetone clean of the area, this product will work wonders.creates a visible chemical reaction, and you can do multiple coats to achieve a deeper colored blueing to match the rest of the metal, if need be.",
+        "true_sentiment": "positive",
+        "true_length_class": "medium",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "medium",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 2854,
+                "similarity": 0.9699783325195312,
+                "review_text": "bought this with the unit that converts your desk phone to a bluetooth compatible headset best buy for the money! i talk on the phone most of the day when in the office, and use both the desk line and my cell phone. the system allows me to use the same headset for both. good battery life.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "cellphones",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 239,
+                "similarity": 0.9691369533538818,
+                "review_text": "because of the turn to release design of this, it just falls way short compared to my safariland comp ii's that were only a dollar or so more. because the cylinder wants to spin when twisting the loader to release, this loader requires more thought and focus, holding the cylinder as well, vs. push in, done.",
+                "sentiment": "negative",
+                "length_class": "medium",
+                "category": "sports",
+                "rating": 2
+            },
+            {
+                "rank": 3,
+                "train_index": 1903,
+                "similarity": 0.967303454875946,
+                "review_text": "it takes a little practice to get used to what works and what doesn't with this ice cream maker. for the price though, it is really good. i messed up my first few recipes by over filling the thing. eventually, i was making my own delicious ice creams and sorbets. so much fun during the summer! my kids were thrilled!",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "query_index": 18,
+        "query_review": "it cuts pizza very nicely and is a good size. it is also dish washer safe. 10 out of 10",
+        "true_sentiment": "positive",
+        "true_length_class": "short",
+        "predicted_sentiment": "positive",
+        "predicted_length_class": "short",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 4170,
+                "similarity": 0.9912400245666504,
+                "review_text": "great knife for the money. i recommend this to anyone. tightest lockup i've ever seen and a grippy handle. buy it.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 2,
+                "train_index": 2274,
+                "similarity": 0.9909495711326599,
+                "review_text": "use this at pre school and a 2 year olds bday party. is always a hit. don't even need balls with it.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "sports",
+                "rating": 5
+            },
+            {
+                "rank": 3,
+                "train_index": 2676,
+                "similarity": 0.990253746509552,
+                "review_text": "i put this on yesterday and it was a good fit....hopefully it will protect to a certain point and keep it clean.",
+                "sentiment": "positive",
+                "length_class": "short",
+                "category": "cellphones",
+                "rating": 4
+            }
+        ]
+    },
+    {
+        "query_index": 19,
+        "query_review": "don't buy it. i have been wearing it one month and already de area of the belt is cracked. i liked the shape, model, for my s4 with zerolemon super battery. but as i said don't last if you use it each day.",
+        "true_sentiment": "negative",
+        "true_length_class": "medium",
+        "predicted_sentiment": "negative",
+        "predicted_length_class": "medium",
+        "retrieved_reviews": [
+            {
+                "rank": 1,
+                "train_index": 3624,
+                "similarity": 0.9695361852645874,
+                "review_text": "i have had 2 of these in 6 years. work like a charm. problem is that the white plastic ring cracks and eventually breaks. i would gladly pay 50 more for the same design if it would last longer.",
+                "sentiment": "neutral",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 3
+            },
+            {
+                "rank": 2,
+                "train_index": 3678,
+                "similarity": 0.966120183467865,
+                "review_text": "i bought this because it was recommended by cooks illustrated. it is very thin and can get under anything. it flips very easily. but you have to get used to how it works. its very flexible. the first time or two, take your time. but i would buy it again",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "home",
+                "rating": 4
+            },
+            {
+                "rank": 3,
+                "train_index": 3058,
+                "similarity": 0.96477210521698,
+                "review_text": "it was so good and inexpensive that i put one everywhere and know i'll always be able to charge my phone. i don't like the bright blue light from the handle, but i got used to it. it has been very dependable.",
+                "sentiment": "positive",
+                "length_class": "medium",
+                "category": "cellphones",
+                "rating": 5
+            }
+        ]
+    }
+]
