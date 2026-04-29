@@ -1,0 +1,20 @@
+{
+    "phase": "Phase 3",
+    "model": "Encoder-only Transformer",
+    "vocab_size": 8122,
+    "max_len": 128,
+    "d_model": 128,
+    "num_heads": 4,
+    "num_layers": 2,
+    "d_ff": 256,
+    "dropout": 0.1,
+    "num_sentiment_classes": 3,
+    "num_length_classes": 3,
+    "embedding_dim": 128,
+    "forbidden_modules_used": false,
+    "outputs": [
+        "sentiment_logits",
+        "length_logits",
+        "review_embedding"
+    ]
+}
